@@ -10,12 +10,20 @@ Across my projects, I found that AI appears powerful, but still depends heavily 
 
 ## Projects
 
-- [Network Project](makes/week7-network.md)
-- [Bot Project](makes/week9-bot.md)
-- [Game Project](makes/week10-game.md)
+- [Reverse Engineering a DH Project](makes/week01.html)
+- [AI Selfie](makes/week03.html)
+- [GIF Remix](makes/week04.html)
+- [Voyant vs ChatGPT Text Analysis](makes/week05.html)
+- [Digital Map of AI Infrastructure](makes/week06.html)
+- [Networks of Knowledge & Power](makes/week07.html)
+- [AIDA Conversational Bot](makes/week08.html)
+- [The Prompt Engineer Game](makes/week10-game.html)
+- [AI Labor & Content Moderation](makes/week10.html)
+- [AI Ecology & Carbon Emissions](makes/week11.html)
+- [Future News Artifact](makes/week12.html)
 
 ## Other Pages
 
-- [How I Use AI](how-i-use-ai.md)
-- [Accessibility](accessibility.md)
-- [Final Reflection](final-reflection.md)
+- [How I Use AI](pages/how-i-use-ai.html)
+- [Accessibility Statement](pages/accessibility.html)
+- [Final Reflection](pages/final-reflection.html)
