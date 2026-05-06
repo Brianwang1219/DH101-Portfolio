@@ -1,19 +1,23 @@
-# Week 7 – Mapping AI Worlds
 
-## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+# Week 7 — Networks of Knowledge & Power
 
-## Process Notes
-How did you make this?
-What tools did you use?
-What decisions did you make?
+## Artifact
+
+This project visualized the AI supply chain as a global network connecting extraction, manufacturing, corporations, and labor systems.
 
 ## Reflection
-Respond to this week’s reflection prompt in 200–300 words.
 
-## Attribution & AI Use
-- Tools used:
-- AI prompts (summary):
-- What AI generated:
-- What you changed or decided:
+My network visualization revealed NVIDIA as the most central node in the AI supply chain because it connects extraction, semiconductor manufacturing, and downstream AI development.
+
+Several clusters emerged in the network. Extraction clusters included cobalt mining in the Democratic Republic of Congo and lithium extraction in South America. Manufacturing clusters centered around China, TSMC, and Samsung, while corporate AI development clustered around companies such as Microsoft, Google, Meta, and OpenAI.
+
+A major pattern was the separation between extraction/labor and corporate control. Extraction and labor systems were concentrated in the Global South, while decision-making power remained concentrated in the Global North.
+
+The project also demonstrated that networks are constructed arguments rather than neutral representations. Different visualization choices would emphasize different systems of power.
+
+This project helped me understand AI as a global infrastructure system rather than simply a software technology.
+
+## AI Use
+
+- Tool Used: Palladio
+- Human Contribution: Research, network design, interpretation, organization, and analysis

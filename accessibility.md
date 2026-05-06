@@ -1,15 +1,24 @@
-# Accessibility
+# Accessibility Statement
 
-I designed this website to be readable and accessible for different users.
+I designed this portfolio to be accessible and readable for a wide range of users.
 
-## Accessibility Choices
-- Clear headings and page organization
-- Readable font sizes and spacing
-- Descriptive labels for projects and links
-- Simple layout to reduce confusion
-- Strong contrast between text and background
+## Accessibility Features
 
-## Why Accessibility Matters
-Accessibility ensures that websites can be used by a wider range of people, including users with visual, cognitive, or technological limitations.
+- Clear page organization and navigation
+- Descriptive headings and labels
+- Readable text formatting and spacing
+- Consistent structure across project pages
+- High contrast between text and background
+- Written explanations accompanying visual projects
 
-This course helped me think about how design decisions shape who can participate in digital spaces.
+## Project Accessibility
+
+For visual projects such as maps, networks, posters, and games, I included written reflections and contextual explanations to help communicate meaning beyond the images themselves.
+
+## Limitations
+
+Some embedded artifacts, screenshots, or external tools may have accessibility limitations depending on platform support.
+
+## Reflection
+
+This course helped me think critically about how digital systems include or exclude different users. Accessibility is not just a technical requirement, but also an ethical and design responsibility.

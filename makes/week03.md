@@ -1,19 +1,20 @@
-# Week 3 – Selfie & Identity
+# Week 3 — AI Selfie
 
-## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+## Artifact
 
-## Process Notes
-How did you make this?
-What tools did you use?
-What decisions did you make?
+This project explored authenticity and identity through AI-generated self portraits created using DALL·E.
 
 ## Reflection
-Respond to this week’s reflection prompt in 200–300 words.
 
-## Attribution & AI Use
-- Tools used:
-- AI prompts (summary):
-- What AI generated:
-- What you changed or decided:
+To me, authenticity co-constructed with AI means how well the image resembles me. The physical descriptions I gave to AI included my race, height, interests, physique, and hair color.
+
+I think AI does a good job at creating pictures based on physical traits that people commonly associate with identity. However, it is much harder for AI to represent personality or individuality beyond appearance.
+
+For example, when I prompted the AI to create an ordinary East Asian college student, it generated stereotypical physical features such as smaller eyes and flatter noses. This demonstrates how AI systems often rely on generalized assumptions rather than representing the diversity of real people.
+
+This project made me think critically about how AI systems construct identity through patterns and stereotypes rather than genuine understanding.
+
+## AI Use
+
+- Tool Used: DALL·E
+- Human Contribution: Prompt design, interpretation, reflection, and revision

@@ -1,20 +1,25 @@
 # How I Use AI
 
-I use AI as a support tool rather than a replacement for my work.
+Throughout this course, I used AI primarily as a support tool rather than a replacement for my own thinking or creativity.
 
-## Tools Used
-- ChatGPT
-- Twine
-- Palladio
+## Ways I Used AI
 
-## Example 1
-AI helped brainstorm ideas and improve wording for my chatbot project. I revised outputs and selected only the parts that matched my intended theme.
+- Brainstorming ideas
+- Refining wording and clarity
+- Organizing structure
+- Generating possible directions for projects
+- Editing and revising written reflections
 
-## Example 2
-AI assisted with editing and organization in my reflections, but I rewrote sections to better reflect my own understanding and voice.
+## Ways I Did NOT Use AI
+
+- I did not allow AI to fully generate my projects without revision.
+- I did not rely on AI to replace critical interpretation or analysis.
+- I did not submit raw AI outputs without modification or curation.
 
 ## My Approach
-I treat AI as a collaborative tool rather than an author. AI can generate possibilities quickly, but I decide what to keep, revise, or reject.
 
-## Ethics
-AI systems are not neutral. They reflect biases in data and design choices. Throughout this course, I learned the importance of critically evaluating AI outputs rather than accepting them automatically.
+One of the major lessons I learned in DH101 is that creativity changes when working with generative systems. Instead of directly producing every output, creative work increasingly involves designing systems, constructing prompts, curating results, and interpreting meaning.
+
+Across projects such as the AIDA chatbot, Prompt Engineer game, and infrastructure visualizations, I found that AI can expand creative possibilities, but human judgment remains essential in determining meaning and value.
+
+I view AI as a collaborative tool that can support research, organization, and experimentation, but not as a substitute for human critical thinking.
