@@ -1,30 +1,41 @@
-# Brian Wang — DH 101 Portfolio
+# Brian Wang — Digital Humanities Portfolio
 
-## What does it mean to be human in the age of AI?
+Welcome to my digital humanities portfolio. This website showcases projects, reflections, and experiments involving AI, storytelling, mapping, visualization, and digital media.
 
-This site documents my work in DH 101: Critical Making in the Age of AI. Over the semester, I explored how artificial intelligence reshapes creativity, authorship, and human agency through projects including a network visualization, chatbot, and interactive game.
+---
 
-My central argument is that AI does not replace human creativity, but redistributes it. Humans increasingly design prompts, systems, and structures rather than directly producing every output. At the same time, this raises questions about control, authorship, and responsibility.
+# Featured Projects
 
-Across my projects, I found that AI appears powerful, but still depends heavily on human decisions, interpretation, and curation. Whether mapping AI supply chains or creating generative systems, the human role remains essential in shaping meaning.
+- [Mapping AI Power](makes/week7-network.html)
+- [Conversation with AIDA](makes/week9-bot.html)
+- [Interactive Story Game](makes/week10-game.html)
+- [Museum Reflection](makes/week13.html)
 
-## Projects
+---
 
-- [Reverse Engineering a DH Project](makes/week01.html)
-- [AI Selfie](makes/week03.html)
-- [GIF Remix](makes/week04.html)
-- [Voyant vs ChatGPT Text Analysis](makes/week05.html)
-- [Digital Map of AI Infrastructure](makes/week06.html)
-- [Networks of Knowledge & Power](makes/week07.html)
-- [AIDA Conversational Bot](makes/week08.html)
-- [The Prompt Engineer Game](makes/week10-game.html)
-- [AI Labor & Content Moderation](makes/week10.html)
-- [AI Ecology & Carbon Emissions](makes/week11.html)
-- [Future News Artifact](makes/week12.html)
+# Digital Humanities Explorations
 
-## Other Pages
-<ul>
-  <li><a href="pages/how-i-use-ai.html">How I Use AI</a></li>
-  <li><a href="pages/accessibility.html">Accessibility Statement</a></li>
-  <li><a href="pages/final-reflection.html">Final Reflection</a></li>
-</ul>
+- [Text Analysis Project](makes/week5.html)
+- [Visualization and Data Project](makes/week6.html)
+- [Networks of Knowledge](makes/week8.html)
+- [Interactive Media Experiment](makes/week11.html)
+
+---
+
+# Reflections
+
+- [How I Use AI](pages/how-i-use-ai.html)
+- [Accessibility Statement](pages/accessibility.html)
+- [Final Reflection](pages/final-reflection.html)
+
+---
+
+# Curriculum
+
+- [Curriculum / Resume](pages/curriculum.html)
+
+---
+
+# About This Portfolio
+
+This portfolio explores how digital tools and artificial intelligence influence storytelling, communication, ethics, and knowledge production. Throughout the course, I experimented with interactive media, mapping, AI-assisted writing, and web design while reflecting on the relationship between humans and technology.
