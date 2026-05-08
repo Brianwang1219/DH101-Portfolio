@@ -1,8 +1,4 @@
 
-# Accessibility Statement
-
-I designed this portfolio to be accessible and readable for a wide range of users.
-
 ## Accessibility Features
 
 - Clear page organization and navigation
