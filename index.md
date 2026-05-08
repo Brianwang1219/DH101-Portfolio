@@ -23,6 +23,8 @@ Across my projects, I found that AI appears powerful, but still depends heavily 
 - [Future News Artifact](makes/week12.html)
 
 ## Other Pages
-<a href="pages/how-i-use-ai.html">How I Use AI</a>
-<a href="pages/accessibility.html">Accessibility</a>
-<a href="pages/final-reflection.html">Final Reflection</a>
+<ul>
+  <li><a href="pages/how-i-use-ai.html">How I Use AI</a></li>
+  <li><a href="pages/accessibility.html">Accessibility Statement</a></li>
+  <li><a href="pages/final-reflection.html">Final Reflection</a></li>
+</ul>
